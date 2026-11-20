@@ -5,6 +5,7 @@
 - 🏢 Desenvolvi, como bolsista, o **Portal de Chamados da SERGAS**, que entrou em produção. Atuei como gerente de projeto e Scrum Master.
 - 🏆 **3º lugar no CentroLab Hackathon** com o Centroaju
 - 🎓 Formação de **Desenvolvedor Full Stack** pelo programa Jovem Tech (InovaSE / Prefeitura de Aracaju)
+- 🌐 Portfólio: **[tulio-barbosa.vercel.app](https://tulio-barbosa.vercel.app)** — monte o seu sistema e veja a estimativa na hora
 - 🔎 Busco minha primeira vaga como **Desenvolvedor Júnior** (full stack, back-end ou front-end)
 
 ## 🛠️ Tecnologias
@@ -29,4 +30,4 @@
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/t%C3%BAlio-jos%C3%A9-ferreira-barbosa-b02a32450/)
+[Portfólio](https://tulio-barbosa.vercel.app) · [LinkedIn](https://www.linkedin.com/in/t%C3%BAlio-jos%C3%A9-ferreira-barbosa-b02a32450/)
