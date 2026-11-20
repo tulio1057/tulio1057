@@ -9,11 +9,11 @@
 
 ## 🛠️ Tecnologias
 
-**Linguagens:** JavaScript · TypeScript · C# · Python
-**Front-end:** React · Next.js · Vite · Tailwind CSS
-**Back-end:** Node.js · Express · APIs REST · .NET
-**Bancos:** PostgreSQL (Prisma) · MongoDB · SQLite · Firebase/Firestore · Supabase
-**Ferramentas:** Git/GitHub · GitHub Actions · Vercel · Render · Cloudflare · Scrum
+- **Linguagens:** JavaScript · TypeScript · C# · Python
+- **Front-end:** React · Next.js · Vite · Tailwind CSS
+- **Back-end:** Node.js · Express · APIs REST · .NET
+- **Bancos:** PostgreSQL (Prisma) · MongoDB · SQLite · Firebase/Firestore · Supabase
+- **Ferramentas:** Git/GitHub · GitHub Actions · Vercel · Render · Cloudflare · Scrum
 
 ## 📌 Projetos em destaque
 
